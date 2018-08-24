@@ -1,0 +1,17 @@
+79,245,605 airport pair combinations
+1/2 the circumference of the earth is 12,450 miles
+longest possible commercial flight as of 2018 < 10,000 miles
+74,735,947 airport pairs with distance in miles  < 10,000 miles
+https://en.wikipedia.org/wiki/Haversine_formula
+
+EC Air Service Location Pairs With Distance.csv
+Origin,Destination,Distance_Miles
+AAA,AAA,0
+AAA,AAB,4688
+AAA,AAF,5177
+AAA,AAG,6079
+AAA,AAH,9648
+AAA,AAI,6503
+AAA,AAJ,6308
+AAA,AAK,3033
+AAA,AAL,9410
